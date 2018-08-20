@@ -1,0 +1,49 @@
+﻿.banner {
+    
+width: 854px;
+color:white;
+    padding: 20px 0 70px 0;
+    background: #2d6360 50% 0;
+   
+ background-attachment: fixed, fixed, fixed, scroll;
+ background-image: url(../images/huntington.jpg);
+   
+ background-position: 0 0, 0 0, -5px -25px, 0 50%;
+    background-repeat: repeat, repeat, repeat, no-repeat;
+    
+ background-size: contain;
+    text-align: center;
+}
+
+
+
+.banner-subtext {
+
+    font-size:120%;
+    padding: 5px 20px 0 20px;
+}
+h2 {
+   color: #006666;
+}
+h3 {
+   color: #006666;
+}
+a:link {
+   color: #00cc44;
+}
+a:visited {
+   color: #006666;
+}
+a:hover {
+   color: aqua;
+}
+
+p {
+width: 820px;
+}
+
+ul {
+width: 820px;
+}
+
+
